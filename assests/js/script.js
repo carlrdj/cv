@@ -15,3 +15,12 @@ for (let i = 0; i < arrayElementScore.length; i++) {
   }
   element.innerHTML = html;  
 }
+
+const mode = document.getElementById('mode')
+mode.addEventListener('change', ($e) => {
+  if ($e.srcElement.checked) {
+    document.body.classList.add('dark')
+  } else {
+    document.body.classList.remove('dark')
+  }
+})

@@ -1,0 +1,72 @@
+[
+	{
+		"period": "2018 - Actual",
+		"business": "ROFAI BUSINESS S.A.C.",
+		"position": "Analista programador",
+		"activity": [
+			"Implementación y configuración de ambientes de desarrollo, aseguramiento de calidad y producción em Amazon Web Services.",
+			"Capacitador y lider técnico de Front-End y Back-End.",
+			"Analista funcional de la plataforma de comercio electrónico “GamarraYA!”."
+		]
+	},
+	{
+		"period": "2018",
+		"business": "EBIZ LATIN S.A.C.",
+		"position": "Programador de soluciones",
+		"activity": [
+			"Desarrollo y mantenimiento de los módulos correspondientes a “Factoring” en “B2Mining 3.0”.",
+			"Desarrollo de modulos de administración en “B2Mining 3.0”.",
+			"Capacitador de Front-End y Back-End.",
+			"Implementación de la aplicación web “3S”.",
+			"Optimización de “E-Gestor 3.0” (Gestión de incidencias)."
+		]
+	},
+	{
+		"period": "2016 - 2017",
+		"business": "SERVICEL PERU S.A.C",
+		"position": "Analista senior - Programador",
+		"activity": [
+			"Administrador del hosting corporativo.",
+			"Desarrollo de un sistema web para el proceso de monitoreo y control de proyectos.",
+			"Desarrollad del sistema “Inter Servicel 1.0”, automatización de procesos internos."
+		]
+	},
+	{
+		"period": "2015 - 2016",
+		"business": "SERVICEL PERU S.A.C",
+		"position": "Analista - Programador",
+		"activity": [
+			"Desarrollo y mantenimiento de desarrollo de sitios web, aplicaciones web y móviles.",
+			"Asistente de Sistemas.",
+			"Analista funcional.",
+			"Desarrollo y ejecución de campañas de marketing digital."
+		]
+	},
+	{
+		"period": "2014 - 2015",
+		"business": "SERVICEL PERU S.A.C",
+		"position": "Programador de aplicaciones junior",
+		"activity": [
+			"Desarrollo y mantenimiento de sitios web.",
+			"Asistente técnico en instalaciones y configuración de cableado estructurado y video vigilancia.",
+			"Instalación y configuración de servidores."
+		]
+	},
+	{
+		"period": "2014",
+		"business": "SERVICEL PERU S.A.C",
+		"position": "Practicante - programador",
+		"activity": [
+			"Mantenimiento de sitios web y servidores."
+		]
+	},
+	{
+		"period": "2013",
+		"business": "FREELANCE",
+		"position": "Desarrollador Full-stack",
+		"activity": [
+			"Desarrollador de sitios web, aplicaciones web, desktop y movil.",
+			"Asesor técnico."
+		]
+	}
+]

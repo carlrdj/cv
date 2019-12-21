@@ -1,0 +1,53 @@
+[
+  {
+    "business": "SERVICEL PERU S.A.C.",
+    "contact": [
+      {
+        "position": "Gerente General",
+        "fullname": "Ing. Pablo Humberto Yataco Espino",
+        "email": "hyataco@servicelperu.com",
+        "mobile": "999 947 377"
+      },
+      {
+        "position": "Sub Gerente General",
+        "fullname": "Ing. Carlos Martin Bravo Castro",
+        "email": "mbravo@servicelperu.com",
+        "mobile": "998 040 037"
+      }
+    ]
+  },
+  {
+    "business": "EBIZ LATIN S.A.C.",
+    "contact": [
+      {
+        "position": "CIO",
+        "fullname": "Ing. Juan Carlos Macedo Vijil",
+        "email": "jmacedo@ebiz.com",
+        "mobile": "999 947 377"
+      },
+      {
+        "position": "Jefe Frond-End",
+        "fullname": "Ing. Ricardo Villaverde",
+        "email": "rvillaverde@ebiz.com",
+        "mobile": "991 134 926"
+      }
+    ]
+  },
+  {
+    "business": "ROFAI BUSINESS S.A.C.",
+    "contact": [
+      {
+        "position": "CEO",
+        "fullname": "Ing. Jose Santos Rojas Bellido",
+        "email": "jrojas@rofai.biz",
+        "mobile": "946 287 375"
+      },
+      {
+        "position": "Sub Gerente General",
+        "fullname": "Ing. Angelica Failoc Torres",
+        "email": "afailoc@rofai.biz",
+        "mobile": "962 533 025"
+      }
+    ]
+  }
+]

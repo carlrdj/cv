@@ -1,0 +1,22 @@
+[
+	{
+		"tipe": "address",
+		"data": "Av. Tamtamayo Mz. A1 Lt.29 - SMP",
+		"link": "https://www.google.com/maps/place/Av.+Tantamayo,+Cercado+de+Lima+15113/@-11.9620847,-77.0947124,19z/data=!3m1!4b1!4m5!3m4!1s0x9105ce04570094dd:0x8fe65faf64ed6a10!8m2!3d-11.9620842!4d-77.0941633"
+	},
+	{
+		"tipe": "email",
+		"data": "carl.rdj@gmail.com",
+		"link": "mailto:carl.rdj@gmail.com"
+	},
+	{
+		"tipe": "mobile",
+		"data": "955 679 259",
+		"link": "tel:955679259"
+	},
+	{
+		"tipe": "github",
+		"data": "github.com/carlrdj",
+		"link": "https://github.com/carlrdj"
+	}
+]

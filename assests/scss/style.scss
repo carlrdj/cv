@@ -91,6 +91,7 @@ main {
     .academic-training,
     .experience,
     .reference {
+      page-break-inside: avoid;
       h2 {
         font-size: 1.3em;
         font-weight: 400;
@@ -327,15 +328,64 @@ body.dark {
   }
 }
 
-@media (max-width: 700px) { 
-  
-  main {
-    width: 100%;
-    flex-direction: column;
-    margin: 0;
-    aside {
-      
-    }
+/**
+* Print
+*/
+table {
+  margin: auto;
+}
+
+.page-header,
+.page-header-space {
+  display: none;
+  height: 1cm;
+}
+
+.page-footer,
+.page-footer-space {
+  height: 1cm;
+}
+
+.page-footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.page-header {
+  position: fixed;
+  top: 0mm;
+  width: 100%;
+}
+
+.page {
+  page-break-after: always;
+}
+
+@page {
+  margin: 20mm
+}
+
+@media print {
+  .page-header,
+  .page-header-space {
+    display: block;
+  }
+  header {
+    display: none;
+  }
+  thead {
+    display: table-header-group;
   }
 
+  tfoot {
+    display: table-footer-group;
+  }
+  body {
+    margin: 0;
+  }
+
+  main {
+    padding: 0 1cm;
+  }
 }

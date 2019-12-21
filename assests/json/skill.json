@@ -1,0 +1,248 @@
+[
+  {
+    "title": "Habilidades",
+    "group": [
+      {
+        "title": "Cloud computing",
+        "topic": [
+          {
+            "subject": "AWS",
+            "score": 7
+          },
+          {
+            "subject": "Google Cloud",
+            "score": 6
+          },
+          {
+            "subject": "Azure",
+            "score": 3
+          }
+        ]
+      },
+      {
+        "title": "Web",
+        "topic": [
+          {
+            "subject": "HTML5",
+            "score": 9
+          },
+          {
+            "subject": "CSS3",
+            "score": 9
+          },
+          {
+            "subject": "Javascript",
+            "score": 8
+          }
+        ]
+      },
+      {
+        "title": "Framework JS",
+        "topic": [
+          {
+            "subject": "Vue.js",
+            "score": 8
+          },
+          {
+            "subject": "Angular 8",
+            "score": 7
+          },
+          {
+            "subject": "React native",
+            "score": 3
+          }
+        ]
+      },
+      {
+        "title": "Framework CSS",
+        "topic": [
+          {
+            "subject": "Bootstrap",
+            "score": 9
+          },
+          {
+            "subject": "Bulma",
+            "score": 8
+          },
+          {
+            "subject": "MaterializeCSS",
+            "score": 7
+          },
+          {
+            "subject": "PureCSS",
+            "score": 5
+          }
+        ]
+      },
+      {
+        "title": "Lenguajes de programación",
+        "topic": [
+          {
+            "subject": "Java",
+            "score": 7
+          },
+          {
+            "subject": "PHP",
+            "score": 6
+          },
+          {
+            "subject": ".NET",
+            "score": 4
+          },
+          {
+            "subject": "C#",
+            "score": 4
+          },
+          {
+            "subject": "Typescript",
+            "score": 6
+          },
+          {
+            "subject": "Python",
+            "score": 3
+          },
+          {
+            "subject": "SQL",
+            "score": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Base de datos",
+    "group": [
+      {
+        "title": "Base de datos",
+        "topic": [
+          {
+            "subject": "SQL Server",
+            "score": 7
+          },
+          {
+            "subject": "MySQL",
+            "score": 7
+          },
+          {
+            "subject": "PostgreSQL",
+            "score": 8
+          },
+          {
+            "subject": "Oracle",
+            "score": 3
+          },
+          {
+            "subject": "MongoDB",
+            "score": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gestores de contenido",
+    "group": [
+      {
+        "title": "Gestores de contenido",
+        "topic": [
+          {
+            "subject": "Wordpress",
+            "score": 6
+          },
+          {
+            "subject": "Joumla",
+            "score": 4
+          },
+          {
+            "subject": "Drupal",
+            "score": 4
+          },
+          {
+            "subject": "Moodle",
+            "score": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Diseño",
+    "group": [
+      {
+        "title": "Diseño",
+        "topic": [
+          {
+            "subject": "Photoshop",
+            "score": 6
+          },
+          {
+            "subject": "Autocad",
+            "score": 3
+          },
+          {
+            "subject": "Corel Draw",
+            "score": 4
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Modelado de datos",
+    "group": [
+      {
+        "title": "Modelado de datos",
+        "topic": [
+          {
+            "subject": "Rational rose",
+            "score": 5
+          },
+          {
+            "subject": "StarUML",
+            "score": 4
+          },
+          {
+            "subject": "Navicat",
+            "score": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sistemas operativos",
+    "group": [
+      {
+        "title": "Sistemas operativos",
+        "topic": [
+          {
+            "subject": "Windows",
+            "score": 8
+          },
+          {
+            "subject": "Ubuntu",
+            "score": 6
+          },
+          {
+            "subject": "Windows server",
+            "score": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Idiomas",
+    "group": [
+      {
+        "title": "Idiomas",
+        "topic": [
+          {
+            "subject": "Ingles",
+            "score": 5
+          }
+        ]
+      }
+    ]
+  }
+]

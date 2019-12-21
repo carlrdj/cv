@@ -1,0 +1,83 @@
+[
+	{
+		"period": "2019",
+		"institute": "GOOGLE ACTIVE",
+		"subject": "Seguridad Online de Empresas",
+		"type": "certificate",
+		"name": null,
+		"by": "Universidad Complutense de Madrid",
+		"time": "40 horas"
+	},
+	{
+		"period": "2017",
+		"institute": "GOOGLE ACTIVE",
+		"subject": "Desarrollo Web II",
+		"type": "certificate",
+		"name": null,
+		"by": "Universidad Complutense de Madrid",
+		"time": "40 horas"
+	},
+	{
+		"period": "2017",
+		"institute": "GOOGLE ACTIVE",
+		"subject": "Desarrollo Web I",
+		"type": "certificate",
+		"name": null,
+		"by": "Universidad Complutense de Madrid",
+		"time": "40 horas"
+	},
+	{
+		"period": "2017",
+		"institute": "GOOGLE ACTIVE",
+		"subject": "E-Commerce",
+		"type": "certificate",
+		"name": null,
+		"by": "Universidad Complutense de Madrid",
+		"time": "40 horas"
+	},
+	{
+		"period": "2017",
+		"institute": "GOOGLE ACTIVE",
+		"subject": "Desarrollo de Apps Móviles",
+		"type": "certificate",
+		"name": null,
+		"by": "Universidad Complutense de Madrid",
+		"time": "40 horas"
+	},
+	{
+		"period": "2017",
+		"institute": "IDAT",
+		"subject": "Desarrollador Visual NET",
+		"type": "certificate",
+		"name": null,
+		"by": null,
+		"time": "80 horas"
+	},
+	{
+		"period": "2016",
+		"institute": "CIBERTEC",
+		"subject": "Java 8.0 Web Developer",
+		"type": "certificate",
+		"name": null,
+		"by": null,
+		"time": "80 horas"
+	},
+	{
+		"period": "2015",
+		"institute": "CIBERTEC",
+		"subject": "Desarrollado de Aplicaciones Móviles en Android",
+		"type": "certificate",
+		"name": null,
+		"by": null,
+		"time": "50 horas"
+	},
+	{
+		"period": "2010 - 2016",
+		"institute": "UNIVERSIDAD CESAR VALLEJO",
+		"subject": "Ingeniería de Sistemas",
+		"type": "degree",
+		"name": "Ingeniería de Sistemas",
+		"by": null,
+		"time": "50 horas"
+	}
+]

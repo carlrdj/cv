@@ -108,7 +108,7 @@ main {
           flex-direction: row;
           margin-bottom: 20px;
           .period {
-            width: 120px;
+            width: 110px;
             font-size: 0.9em;
           }
           .info {
@@ -136,7 +136,7 @@ main {
     }
   }
   aside {
-    width: 240px;
+    width: 250px;
     padding-left: 0.5cm;
     .contact,
     .skill,
@@ -157,7 +157,7 @@ main {
         margin: 8px 0;
         .sub-header {
           margin: auto 0 auto auto;
-          width: 60%;
+          width: 61%;
           display: flex;
           justify-content: space-between;
           span {
@@ -210,9 +210,9 @@ main {
             flex-grow: 1;
           }
           .score {
-            width: 60%;
+            width: 61%;
             i {
-              font-size: 0.85em;
+              font-size: 0.8em;
               &.active {
                 color: $primary-color;
               }

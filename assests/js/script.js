@@ -19,7 +19,7 @@ function buildExperince() {
   experience.forEach(e => {
     htmlActivity = ''
     e.activity.forEach(a => {
-      htmlActivity += a
+      htmlActivity += `${a} `
     })
     html += `
       <li>
@@ -129,7 +129,7 @@ function buildContact() {
         <div class="icon">${icon}</div>
         <div class="info">
           <h5>${title}</h5>
-          <a href="${c.link}">${c.data}</a>
+          <a target="_blank" href="${c.link}">${c.data}</a>
         </div>
       </li>
     `
@@ -182,7 +182,7 @@ for (let i = 0; i < arrayElementScore.length; i++) {
       <i class="active far fa-dot-circle"></i>
     `
   }
-  for (let j = 0; j < 9 - element.attributes.score.value; j++) {
+  for (let j = 0; j < 10 - element.attributes.score.value; j++) {
     html += `
       <i class="far fa-circle"></i>
     `

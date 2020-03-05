@@ -48,8 +48,16 @@
             "score": 7
           },
           {
+            "subject": "Ionic 4",
+            "score": 7
+          },
+          {
             "subject": "React native",
             "score": 3
+          },
+          {
+            "subject": "Flutter",
+            "score": 6
           }
         ]
       },
@@ -70,6 +78,10 @@
           },
           {
             "subject": "PureCSS",
+            "score": 5
+          },
+          {
+            "subject": "TailwindCSS",
             "score": 5
           }
         ]

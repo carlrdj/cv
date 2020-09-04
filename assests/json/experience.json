@@ -1,6 +1,17 @@
 [
 	{
-		"period": "2018 - Actual",
+		"period": "2020 - Actual",
+		"business": "GEOSATELITAL PERU E.I.R.L",
+		"position": "Desarrollador web",
+		"activity": [
+			"Desarrollo de aplicación para seguimiento de recuperación vehicular.",
+			"Soporte e intregación de LDAP con aplicación CAS(Servicio centralizando de autenticación)",
+			"Desarrollo de aplicación para sincronización de data entre sistemas.",
+			"Desarrollo de aplicación para replicar fuentes de datos entre distintas aplicaciones."
+		]
+	},
+	{
+		"period": "2018 - 2020",
 		"business": "ROFAI BUSINESS S.A.C.",
 		"position": "Arquitecto de sistemas",
 		"activity": [

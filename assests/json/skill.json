@@ -58,6 +58,10 @@
           {
             "subject": "Flutter",
             "score": 6
+          },
+          {
+            "subject": "Ruby on rails",
+            "score": 7
           }
         ]
       },
@@ -150,6 +154,10 @@
           {
             "subject": "MongoDB",
             "score": 3
+          },
+          {
+            "subject": "Redis",
+            "score": 5
           }
         ]
       }

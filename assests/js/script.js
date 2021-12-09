@@ -121,6 +121,10 @@ function buildContact() {
         title = 'Github'
         icon = '<i class="fab fa-github"></i>'
         break;
+      case 'gitlab':
+        title = 'Gitlab'
+        icon = '<i class="fab fa-gitlab"></i>'
+        break;
       case 'platzi':
         title = 'Platzi'
         icon = '<i class="fas fa-graduation-cap"></i>'

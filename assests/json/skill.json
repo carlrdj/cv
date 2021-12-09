@@ -7,7 +7,7 @@
         "topic": [
           {
             "subject": "AWS",
-            "score": 7
+            "score": 8
           },
           {
             "subject": "Google Cloud",
@@ -15,7 +15,7 @@
           },
           {
             "subject": "Azure",
-            "score": 3
+            "score": 5
           }
         ]
       },
@@ -99,7 +99,7 @@
           },
           {
             "subject": "PHP",
-            "score": 6
+            "score": 7
           },
           {
             "subject": "Dart",
@@ -115,7 +115,7 @@
           },
           {
             "subject": "Typescript",
-            "score": 6
+            "score": 8
           },
           {
             "subject": "Python",
@@ -171,11 +171,11 @@
         "topic": [
           {
             "subject": "Wordpress",
-            "score": 6
+            "score": 8
           },
           {
             "subject": "Joumla",
-            "score": 4
+            "score": 5
           },
           {
             "subject": "Drupal",

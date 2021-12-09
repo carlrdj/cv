@@ -18,5 +18,10 @@
 		"tipe": "github",
 		"data": "github.com/carlrdj",
 		"link": "https://github.com/carlrdj"
-	}
+	},
+	{
+		"tipe": "gitlab",
+		"data": "gitlab.com/carlrdj",
+		"link": "https://gitlab.com/carlrdj"
+	}	
 ]

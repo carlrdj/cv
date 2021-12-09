@@ -1,11 +1,11 @@
 [
 	{
-		"period": "2020 - Actual",
+		"period": "2020",
 		"business": "GEOSATELITAL PERU E.I.R.L",
 		"position": "Programador web",
 		"activity": [
 			"Desarrollo de aplicación para seguimiento de recuperación vehicular.",
-			"Soporte e intregación de LDAP con aplicación CAS(Servicio centralizando de autenticación)",
+			"Soporte e integración de LDAP con aplicación CAS(Servicio centralizado de autenticación).",
 			"Desarrollo de aplicación para sincronización de data entre sistemas.",
 			"Desarrollo de aplicación para replicar fuentes de datos entre distintas aplicaciones.",
 			"Mantenimiento técnico sobre ERPnext y sincronización de datos entre aplicaciones."
@@ -14,11 +14,11 @@
 	{
 		"period": "2018 - 2020",
 		"business": "ROFAI BUSINESS S.A.C.",
-		"position": "Arquitecto de sistemas",
+		"position": "Jefe de proyectos",
 		"activity": [
-			"Implementación y configuración de ambientes de desarrollo, aseguramiento de calidad y producción em Amazon Web Services.",
-			"Capacitador y lider técnico de Front-End y Back-End.",
-			"Analista funcional de la plataforma de comercio electrónico “GamarraYA!”."
+			"Control y monitoreo del proyecto GamarraYA! web y aplicación móvil.",
+			"Implementación y configuración de ambientes de desarrollo, aseguramiento de calidad y producción en Amazon Web Services.",
+			"Capacitador y líder técnico de Front-End y Back-End. Analista funcional de la plataforma de comercio electrónico “GamarraYA!”."
 		]
 	},
 	{
@@ -27,9 +27,8 @@
 		"position": "Programador de soluciones",
 		"activity": [
 			"Desarrollo y mantenimiento de los módulos correspondientes a “Factoring” en “B2Mining 3.0”.",
-			"Desarrollo de modulos de administración en “B2Mining 3.0”.",
-			"Capacitador de Front-End y Back-End.",
-			"Implementación de la aplicación web “3S”.",
+			"Desarrollo de módulos de administración en “B2Mining 3.0”. Capacitador de Front-End y Back-End.",
+			"Implementación de la aplicación web “3S”. Optimización de “E-Gestor 3.0” (Gestión de incidencias).",
 			"Optimización de “E-Gestor 3.0” (Gestión de incidencias)."
 		]
 	},
@@ -46,34 +45,18 @@
 	{
 		"period": "2015 - 2016",
 		"business": "SERVICEL PERU S.A.C",
-		"position": "Analista - Programador",
+		"position": "Analista - Programador / Diseñador web",
 		"activity": [
+			"Administrador del hosting corporativo.",
 			"Desarrollo y mantenimiento de desarrollo de sitios web, aplicaciones web y móviles.",
-			"Asistente de Sistemas.",
 			"Analista funcional.",
-			"Desarrollo y ejecución de campañas de marketing digital."
-		]
-	},
-	{
-		"period": "2014 - 2015",
-		"business": "SERVICEL PERU S.A.C",
-		"position": "Programador de aplicaciones junior",
-		"activity": [
 			"Desarrollo y mantenimiento de sitios web.",
 			"Asistente técnico en instalaciones y configuración de cableado estructurado y video vigilancia.",
 			"Instalación y configuración de servidores."
 		]
 	},
 	{
-		"period": "2014",
-		"business": "SERVICEL PERU S.A.C",
-		"position": "Practicante - programador",
-		"activity": [
-			"Mantenimiento de sitios web y servidores."
-		]
-	},
-	{
-		"period": "2013",
+		"period": "2013 - Actual",
 		"business": "FREELANCE",
 		"position": "Desarrollador Full-stack",
 		"activity": [

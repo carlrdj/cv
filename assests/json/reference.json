@@ -37,16 +37,21 @@
     "business": "ROFAI BUSINESS S.A.C.",
     "contact": [
       {
-        "position": "CEO",
-        "fullname": "Ing. Jose Santos Rojas Bellido",
-        "email": "jrojas@rofai.biz",
-        "mobile": "946 287 375"
-      },
-      {
         "position": "Sub Gerente General",
         "fullname": "Ing. Angelica Failoc Torres",
         "email": "afailoc@rofai.biz",
         "mobile": "962 533 025"
+      }
+    ]
+  },
+  {
+    "business": "GEOSATELITAL PERU E.I.R.L",
+    "contact": [
+      {
+        "position": "Jefe de sistemas",
+        "fullname": "Ing. Erik Beltran Estelita",
+        "email": "ebeltran@geosatelital.com",
+        "mobile": "984 396 361"
       }
     ]
   }

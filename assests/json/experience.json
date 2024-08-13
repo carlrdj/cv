@@ -1,6 +1,19 @@
 [
 	{
-		"period": "2020",
+		"period": "Dic 2020 - Actual",
+		"business": "INDECI - COEN",
+		"position": "Especialista del módulo de comunicaciones",
+		"activity": [
+			"Coordinaciòn en el desarrollo de la plataforma SINPAD 2.1.",
+			"Desarrollo de aplicación para el manejo del directoria nacional.",
+			"Desarrollo de aplicación para recepción y difución de reportes y aceleración sísmica.",
+			"Desarrollo de aplicación para la emisión de reportes de los Centros de Operaciones de Emergencia a nivel nacional.",
+			"Desarrollo de aplicación para la generación de estaditicas y reportes, de información proveniente de la plataforma SINPAD.",
+			"Desarrollo de aplicación para el seguimiento y monitoreo de emergencias a nivel nacional."
+		]
+	},
+	{
+		"period": "Mar - Oct 2020",
 		"business": "GEOSATELITAL PERU E.I.R.L",
 		"position": "Programador web",
 		"activity": [
@@ -12,7 +25,7 @@
 		]
 	},
 	{
-		"period": "2018 - 2020",
+		"period": "Sep 2018 - Oct 2020",
 		"business": "ROFAI BUSINESS S.A.C.",
 		"position": "Jefe de proyectos",
 		"activity": [
@@ -22,7 +35,7 @@
 		]
 	},
 	{
-		"period": "2018",
+		"period": "Mar - Nov 2018",
 		"business": "EBIZ LATIN S.A.C.",
 		"position": "Programador de soluciones",
 		"activity": [
@@ -32,7 +45,7 @@
 		]
 	},
 	{
-		"period": "2015 - 2016",
+		"period": "Ago 2014 - Ene 2017",
 		"business": "SERVICEL PERU S.A.C",
 		"position": "Analista - Programador / Diseñador web",
 		"activity": [

@@ -53,6 +53,9 @@ function buildAcademicTraining() {
       case 'degree':
         htmlActivity += `Título en - ${e.name}`
         break;
+      case 'graduated':
+        htmlActivity += `Egresado en - ${e.name}`
+        break;
       default:
         break;
     }

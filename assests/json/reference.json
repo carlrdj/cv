@@ -54,5 +54,16 @@
         "mobile": "984 396 361"
       }
     ]
+  },
+  {
+    "business": "INDECI - COEN",
+    "contact": [
+      {
+        "position": "Encargado del Módulo de Gestión de la Información",
+        "fullname": "Ing. Juan Carlos Garcia Carranza",
+        "email": "jcarranza@indeci.gob.pe",
+        "mobile": "972 601 010"
+      }
+    ]
   }
 ]
